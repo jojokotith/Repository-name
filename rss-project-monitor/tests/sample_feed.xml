@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Sample feed</title>
+    <item>
+      <title>Parser for a product catalogue - 100USD</title>
+      <description>&lt;p&gt;Collect   prices&lt;br&gt;into Excel&lt;/p&gt;</description>
+      <pubDate>Thu, 12 Nov 2026 12:58:08 +0200</pubDate>
+      <link>https://example.com/project/parser-catalogue/1001.html?utm_source=rss</link>
+      <category>Python</category>
+      <category>Парсинг данных</category>
+    </item>
+    <item>
+      <title>Logo for a coffee shop</title>
+      <description>Need a simple logo</description>
+      <pubDate>Thu, 12 Nov 2026 11:00:00 +0200</pubDate>
+      <link>https://example.com/project/logo/1002.html</link>
+      <category>Логотипы</category>
+    </item>
+    <item>
+      <title>Telegram bot for orders - 2500,50UAH</title>
+      <description>Бот принимает заказы и пишет в таблицу</description>
+      <pubDate>not a date</pubDate>
+      <link>https://example.com/project/bot/1003.html</link>
+      <category>Разработка ботов</category>
+    </item>
+    <item>
+      <title>Broken item without link</title>
+      <description>Should be skipped</description>
+    </item>
+  </channel>
+</rss>
