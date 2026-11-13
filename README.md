@@ -16,3 +16,10 @@
 Excel и JSON. [Код и инструкция](rss-project-monitor)
 
 ![RSS Project Monitor](rss-project-monitor/preview.png)
+
+## Excel: сводная по менеджерам
+
+Таблица Excel со сводкой по менеджерам на формулах, которая пересчитывается
+сама при добавлении строк. [Файл и описание](excel-manager-summary)
+
+![Excel: сводная по менеджерам](excel-manager-summary/preview.png)
